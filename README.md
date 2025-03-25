@@ -32,24 +32,29 @@ To run this project locally, follow the steps below.
 
 ```bash
 git clone https://github.com/ksmida/task-manager.git
+```
 
 2. Navigate to the project directory
 ```bash
 cd task-manager
+```
 
 3. Install dependencies:
 ```bash
 npm install
+```
 
 4. Set up environment variables:
 Create a '.env' file in the root directory of the project by running:
 ```bash
 touch .env
+```
 
 5. Start the application:
 After installing dependencies and configuring your environment, star the application by running:
 ```bash
 npm start
+```
 
 6. Access the application:
 Open your browser and visit 'http://localhost:3000' to interact with the Task Manager application!
